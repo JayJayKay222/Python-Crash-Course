@@ -1,0 +1,9 @@
+hall=11.25
+kit=18.0
+liv=20.0
+bed=10.75
+bath=9.50
+area= ['hall',11.25, 'kit',18.0, 'liv',20.0, 'bed',10.75, 'bath',9.50]
+area1= area + ['poolhose',24.25,]
+area2= area1 + ['garage',15.45,]
+print (area2)
